@@ -1,6 +1,6 @@
 ## The dashboard's main purpose is to show The evolution of movies vs Tv_shows over years
 Here's what I did with the data:
->-Scraping IDBM using poweBI
+>- Scraping IDBM using poweBI
 >-Cleaned data
 >-Added custom columns
 >-removing unusfull columns
