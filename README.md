@@ -8,4 +8,5 @@ Here's what I did with the data:
 >- DAX formulas
 >- Power Query 
 >- Append & Merge data 
-![123](https://user-images.githubusercontent.com/48418883/181791831-f0b86670-b013-4ece-bd79-0c180c7321d7.JPG)
+![123](https://user-images.githubusercontent.com/48418883/181854900-92002828-240a-469f-993d-adce2c1dbb3c.JPG)
+
